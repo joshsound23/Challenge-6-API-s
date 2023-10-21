@@ -63,8 +63,9 @@ Wind speed less than 4.5 m/s
 
 Zero cloudiness
 
-NOTE
-Feel free to adjust your specifications but make sure to set a reasonable limit to the number of rows returned by your API requests.
+Citations and Credit
+A big thank you to the AskBSC assistant who helped guide me in creating proper code to retrieve the API in the Weather API file. TA's were very helpful as well in assistance and many of the class activities were resourcful in looking at and basing some code. Stack Overflow was also resourceful in assisting with confusing code. 
+
 
 Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
